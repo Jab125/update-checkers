@@ -1,0 +1,2 @@
+resourcepacks/Singleplayer/pack.mcmeta|f03f9fbc84034f8f7a95ab433701ca983d41edb46136993c77313ae611d63d2
+resourcepacks/Singleplayer/assets/singleplayer/lang/en_us.json|ba2b6caa11682db754610dff684756f26fd37de7137cb6cf4165981d995f078f
